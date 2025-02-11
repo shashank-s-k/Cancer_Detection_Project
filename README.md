@@ -18,7 +18,7 @@ The CNN model consists of multiple convolutional layers, max-pooling layers, and
 
 ## Running the Project
 
-1. Clone the repository:
+1. Clone the repository:<br>
    git clone (repository-url)<br>
    cd (repository-folder)
 
