@@ -19,12 +19,12 @@ The CNN model consists of multiple convolutional layers, max-pooling layers, and
 ## Running the Project
 
 1. Clone the repository:
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone <repository-url><br>
+   cd <repository-folder><br>
 
 2. Ensure the dataset is in the correct directory.
 
-3. Run the Jupyter Notebook:
+3. Run the Jupyter Notebook:<br>
    jupyter notebook deeplearningfinal.ipynb
 
 ## Results
