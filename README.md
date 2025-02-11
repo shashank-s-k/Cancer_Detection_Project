@@ -22,12 +22,12 @@ The CNN model consists of multiple convolutional layers, max-pooling layers, and
    git clone <repository-url>
    cd <repository-folder>
 
-3. Ensure the dataset is in the correct directory.
+2. Ensure the dataset is in the correct directory.
 
-4. Run the Jupyter Notebook:
+3. Run the Jupyter Notebook:
    jupyter notebook deeplearningfinal.ipynb
 
-   Results
+## Results
 
 The model evaluates performance using metrics such as accuracy, confusion matrix, and classification report.
 
