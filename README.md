@@ -20,7 +20,7 @@ The CNN model consists of multiple convolutional layers, max-pooling layers, and
 
 1. Clone the repository:
    git clone <repository-url><br>
-   cd <repository-folder><br>
+   cd <repository-folder>
 
 2. Ensure the dataset is in the correct directory.
 
